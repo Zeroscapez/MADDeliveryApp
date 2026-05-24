@@ -22,4 +22,3 @@ The drivers interface only has two pages, delivery information and delivery deta
 
 https://youtu.be/0YjmPMlu9qg
 
-Note for the presentation: I did not mean to demo the entire project and steal Agyei's pages, he was very active in the presentation, working on the powerpoint and performed the editing for the final product. I got a bit too focused on showing how the status of firebase was updated between the driver's and customers interfaces, and ended up not leaving him a lot to present. -Derek
